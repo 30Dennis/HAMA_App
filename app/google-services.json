@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915684844299",
+    "project_id": "hama-a5e52",
+    "storage_bucket": "hama-a5e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915684844299:android:29a84ffbbca3583d96780e",
+        "android_client_info": {
+          "package_name": "com.example.hama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915684844299-f9k7h6qpkkqm4pj83jrs57ghav6bkp1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9KwbRHSYv4PsXLdPrw-qSgW-1JKKCT2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915684844299-f9k7h6qpkkqm4pj83jrs57ghav6bkp1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
